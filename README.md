@@ -15,5 +15,6 @@ Fried 表示，尽管迁移的过程有些麻烦。但值得庆幸的是，我�
 据悉，目前谷歌已经与诸多伙伴合作启用 .dev 域名，比如 Women Who Code（女性向编程技能推广网站）、JetBrains.dev（同名开发工具网站）、web.dev（面向网页开发者）。
 
 此外，谷歌推出了移动编程工具（flutter.dev）、TensorFlow AI 软件（tfhub.dev）、性能监测工具（perfetto.dev）、JavaScript 引擎（v8.dev）等网站。
+.dev域名QQ群 522392271
 
 注册地址：https://www.363.hk/domains/dev.asp
