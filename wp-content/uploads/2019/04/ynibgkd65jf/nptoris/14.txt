@@ -1,0 +1,707 @@
+
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#" dir="ltr" class="no-js" lang="en">
+	<head>
+	
+	<title>{keyword}</title>
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+	
+	
+	
+	<meta content="{keyword}" name="description"/><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/><meta content="2018-01-08T17:25:18-08:00" itemprop="dateModified"/><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/><link href="https://forums.att.com/t5/AT-T-Internet-Installation/Motorola-Router-WAP/td-p/5379887" rel="canonical"/>
+	
+	
+	
+		<link class="lia-link-navigation hidden live-links" title="topic Motorola Router WAP in AT&amp;T Internet Installation" type="application/rss+xml" rel="alternate" id="link" href="/cng/rss/message?board.id=internet_installation&amp;message.id=7580"></link>
+	
+
+		
+			
+		<link href="/skins/3022898/0da9ba108666b8d075bab9b19153e99b/att_responsive_3.css" rel="stylesheet" type="text/css"/>
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+<style type="text/css">
+@media (min-width: 768px) {
+	.ForumTopicPage .lia-paging-full-wrapper {
+		margin: -20px 0 10px;
+	}
+	.ForumTopicPage .lia-paging-full-wrapper.lia-discussion-page-message-pager {
+		margin: -10px 0 10px;
+	}
+	.ForumTopicPage .lia-component-message-list-detail-with-inline-editors > .linear-message-list > .lia-paging-full-wrapper,
+	.ForumTopicPage .lia-component-message-list > .lia-paging-full-wrapper,
+	.BlogArticlePage .lia-paging-full-wrapper {
+		margin: -16px 0 11px;
+		text-align: center;
+	}
+	.ForumPage .lia-paging-full-wrapper {
+		float: none;
+		margin: 8px 0 -9px;
+		text-align: center;
+	}
+	.BlogPage .lia-paging-full-wrapper {
+		margin: 16px 0 10px;
+		text-align: center;
+	}
+	.BlogPage li\:common-pagination[ng-if="useBottomPager()"] .lia-paging-full-wrapper {
+		margin: 0 0 16px;
+	}
+	#lia-body.latest-activity .lia-content .cng-widget .lia-paging-full-wrapper {
+		margin: 10px 0;
+		text-align: center;
+	}
+	.lia-paging-full-wrapper {
+		height: 44px;
+	}
+	.ForumTopicPage .lia-component-message-list-detail-with-inline-editors > .linear-message-list > .lia-paging-full-wrapper ul.lia-paging-full,
+	.ForumTopicPage .lia-component-message-list > .lia-paging-full-wrapper ul.lia-paging-full,
+	.ForumPage .lia-paging-full-wrapper ul.lia-paging-full,
+	.BlogPage .lia-paging-full-wrapper ul.lia-paging-full,
+	#lia-body.latest-activity .lia-content .cng-widget .lia-paging-full-wrapper ul.lia-paging-full {
+		float: none;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full > li.lia-component-pagesnumbered > ul {
+		display: inline-block;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full > li:not(.lia-component-pagesnumbered),
+	.lia-paging-full-wrapper ul.lia-paging-full > li.lia-component-pagesnumbered > ul > li {
+		display: inline-block;
+		margin: 0 2px;
+		min-width: 31px;
+		height: 32px;
+		line-height: 44px;
+		text-align: center;
+		vertical-align: middle;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-previous,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next {
+		margin: 0;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full > li:not(.lia-component-pagesnumbered) > a,
+	.lia-paging-full-wrapper ul.lia-paging-full > li:not(.lia-component-pagesnumbered) > span,
+	.lia-paging-full-wrapper ul.lia-paging-full > li.lia-component-pagesnumbered > ul > li > a,
+	.lia-paging-full-wrapper ul.lia-paging-full > li.lia-component-pagesnumbered > ul > li > span {
+		display: inline-block;
+		float: none;
+		margin: 0;
+		padding: 0;
+		border: none;
+		min-width: 23px;
+		text-align: center;
+		font-family: 'omnes2', Arial;
+		font-size: 17px;
+		font-weight: normal;
+		line-height: 32px;
+		color: #0568ae;
+		cursor: pointer;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full > li:not(.lia-component-pagesnumbered) > a:hover,
+	.lia-paging-full-wrapper ul.lia-paging-full > li:not(.lia-component-pagesnumbered) > a:focus,
+	.lia-paging-full-wrapper ul.lia-paging-full > li.lia-component-pagesnumbered > ul > li > a:hover,
+	.lia-paging-full-wrapper ul.lia-paging-full > li.lia-component-pagesnumbered > ul > li > a:focus {
+		text-decoration: none;
+		color: #333;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-previous > span,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-previous > a,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next > span,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next > a {
+		border-bottom: none;
+		color: #0568ae;
+		display: inline-block;
+		font-family: 'ico-primary';
+		font-style: normal;
+		font-size: 20px;
+		font-weight: bold;
+		font-variant: normal;
+		height: 28px;
+		margin: 0 0 1px;
+		text-transform: none;
+		line-height: 1;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+		position: relative;
+		speak: none;
+		-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+		vertical-align: middle;
+		width: 1em;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-previous > span:before,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-previous > a:before,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next > span:before,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next > a:before {
+		box-sizing: border-box;
+		display: inline-block;
+		position: relative;
+		top: 0;
+		left: 0;
+		vertical-align: middle;
+		width: 1em;
+		font-family: 'ico_primary';
+		font-style: inherit;
+		font-size: inherit;
+		font-weight: inherit;
+		font-variant: inherit;
+		line-height: inherit;
+		margin: 0;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-previous > span:before,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-previous > a:before {
+		content: "\ea3c";
+		-webkit-transform: rotate(90deg);
+		transform: rotate(90deg);
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next > span:before,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next > a:before {
+		content: "\ea3c";
+		-webkit-transform: rotate(-90deg);
+		transform: rotate(-90deg);
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-previous > span > span,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-previous > a > span,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next > span > span,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next > a > span,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next > a:after,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next > span:after,
+	.lia-quilt-column-main-content > .lia-quilt-column-alley-left > .lia-component-article-navigator,
+	.ForumTopicPage .lia-component-message-list > .lia-menu-bar-bottom .lia-paging-full-wrapper,
+	.BlogPage .lia-menu-bar-top {
+		display: none;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-previous > .lia-link-disabled,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next > .lia-link-disabled {
+		color: #c4c4c4;
+		cursor: not-allowed;
+		opacity: 1;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-ellipsis > .lia-link-disabled {
+		cursor: default;
+		opacity: 1;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full > li.lia-component-pagesnumbered > ul > li:not(.lia-paging-page-ellipsis) > .lia-link-disabled {
+		border-bottom: 2px solid #0568ae;
+		color: #333;
+		cursor: default;
+		text-decoration: none;
+	}
+}
+@media (max-width: 767px), handheld {
+	.lia-paging-full-wrapper,
+	.lia-component-message-list-detail-with-inline-editors > .linear-message-list > .lia-paging-full-wrapper,
+	.lia-menu-bar-bottom .lia-paging-full-wrapper {
+		display: block;
+		float: left;
+		margin: 0 0 22px;
+		width: 100%;
+	}
+	#lia-body.BlogPage .lia-content .lia-quilt-row-row_4 > .lia-quilt-column-status-bar,
+	#lia-body.BlogArticlePage .lia-content .lia-quilt-row-row_4 > .lia-quilt-column-status-bar {
+		margin: 0;
+	}
+	.BlogPage .lia-page-header {
+		margin: 0 0 -14px;
+	}
+	.BlogArticlePage .lia-page-header {
+		margin: 0 0 -34px;
+	}
+	.BlogPage li\:common-pagination[ng-if="useTopPager()"] .lia-paging-full-wrapper,
+	.SearchPage .lia-paging-full-wrapper {
+		display: none;
+	}
+	.BlogPage .lia-paging-full-wrapper {
+		margin: 0 0 34px;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full {
+		float: none;
+		width: 100%;
+		margin: 0;
+		font-size: 1.07em;
+		text-align: center;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-previous,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-paging-page-next {
+		float: left;
+		margin: 12px 0;
+		padding: 0;
+		width: 50%;
+		list-style: none;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full li .lia-link-disabled {
+		color: #aaa;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-previous > span,
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-previous > a {
+		display: block;
+		width: 100%;
+		margin: 0;
+		padding: 10px;
+		border: 1px solid #ccc;
+		border-right: none;
+		border-radius: 3px 0 0 3px;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-next > span,
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-next > a {
+		display: block;
+		width: 100%;
+		margin: 0 15px 0 0;
+		padding: 10px;
+		border: 1px solid #ccc;
+		border-radius: 0 3px 3px 0;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-previous > a,
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-next > a {
+		color: #016699;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-previous > a.next-is-disabled {
+		border-right: 1px solid #ccc;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-previous > span:before,
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-previous > a:before,
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-next > span:after,
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-next > a:after {
+		content: none;
+	}
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-previous > span .lia-paging-page-link,
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-previous > a .lia-paging-page-link,
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-next > span .lia-paging-page-link,
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-next > a .lia-paging-page-link {
+		display: inline;
+	}
+	.lia-component-message-list-detail-with-inline-editors > .lia-inline-message-editor,
+	.lia-quilt-forum-topic-page > .lia-quilt-row-main > .lia-quilt-column-side-content,
+	.BlogPage .lia-panel-status-banner-note,
+	.BlogPage .lia-deckgrid {
+		clear: both;
+	}
+	.lia-quilt-column-main-content > .lia-quilt-column-alley-left > .lia-paging-full-wrapper:not(.lia-component-comment-pager),
+	.lia-quilt-column-main-content > .lia-quilt-column-alley-left > .lia-menu-bar.top-block,
+	.lia-quilt-column-main-content > .lia-quilt-column-alley-left > .lia-menu-bar.r3-top-menu-bar,
+	.lia-quilt-column-main-content > .lia-quilt-column-alley-left > .lia-component-article-navigator,
+	.lia-paging-full-wrapper ul.lia-paging-full li.lia-component-pagesnumbered,
+	.lia-paging-full-wrapper ul.lia-paging-full .lia-paging-page-arrow,
+	.BlogPage .lia-menu-bar-top,
+	#lia-body.latest-activity .lia-content .cng-widget .r3-widget-paginator-top {
+		display: none;
+	}
+	.BlogPage .options-position {
+		position: absolute;
+		top: -35px;
+		right: 16px;
+		margin: auto;
+		float: none;
+	}
+	.BlogPage .options-position .default-menu-option {
+		padding: 15px 6px;
+	}
+	.BlogPage .options-position .default-menu-option:before {
+		margin: 0 -4px 0 0;
+	}
+}
+</style>
+<link href="https://forums.att.com/html/assets/r3-header-row.css?34FED217F138B52F93BB4F221D60A4C5=1" rel="stylesheet" type="text/css">
+<link href="https://forums.att.com/html/assets/r3-header-carousel.css?41B5F15B27BA0D264D9DB04CD43AB6E4=1" rel="stylesheet" type="text/css">
+<style type="text/css">
+@media screen and (max-width: 767px) {
+	#explore-nav-menu {
+		position: absolute;
+		top: -360px;
+	}
+	.lia-user-status-anonymous #explore-nav-menu {
+		position: absolute;
+		top: -300px;
+	}
+}
+</style>
+ 
+<style type="text/css">
+.lia-body .mce-window .mce-foot .mce-btn.r3-mce-btn-found {
+	display: none;
+}
+.lia-body .mce-window .mce-foot .r3-custom-mce-btn {
+	float: right;
+	margin: 0 15px 0 0;
+	padding: 10px 20px;
+	min-width: 53px;
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+}
+.lia-body .mce-window .mce-foot .r3-custom-mce-btn.lia-button-secondary {
+	border: 1px solid #494949;
+}
+.lia-body .mce-window .mce-foot .r3-custom-mce-btn.lia-button-secondary[disabled]:hover {
+	color: #333;
+}
+.mce-container.mce-toolbar.mce-stack-layout-item .mce-btn.r3-mce-btn-show button .r3-mce-txt-left {
+	display: none;
+}
+.lia-body .mce-window .r3-mce-formitem-image-top .r3-mce-label-image-source-tip {
+	margin: 2px 0 0;
+	white-space: normal;
+}
+.lia-body .mce-window .r3-mce-formitem-image-top .r3-mce-label-image-source-tip b {
+	font-weight: bold;
+}
+.lia-body .mce-window .r3-mce-formitem-image-bottom {
+	display: none;
+}
+@media (max-width: 767px), handheld {
+	.ForumTopicPage .InlineMessageEditorForm .MessageEditor .lia-tabs-standard-wrapper,
+	.BlogArticlePage .CommentEditorForm .MessageEditor .lia-tabs-standard-wrapper,
+	#lia-body .SendPrivateNoteForm .MessageEditor .lia-tabs-standard-wrapper,
+	.MediaGalleryPage .CommentEditorForm .MessageEditor .lia-tabs-standard-wrapper {
+		display: none !important;
+	}
+	.mce-container.mce-toolbar.mce-stack-layout-item,
+	.mce-container.mce-toolbar.mce-stack-layout-item .mce-btn {
+		display: none;
+	}
+	.mce-container.mce-toolbar.mce-stack-layout-item.r3-mce-toolbar-show {
+		display: block;
+	}
+	.mce-container.mce-toolbar.mce-stack-layout-item .mce-btn.r3-mce-btn-show {
+		display: block;
+		float: right;
+	}
+	.mce-container.mce-toolbar.mce-stack-layout-item .mce-btn.r3-mce-btn-show button .r3-mce-txt-left {
+		display: inline-block;
+		padding: 1px 0 0;
+	}
+	.mce-container.mce-toolbar.mce-stack-layout-item .mce-btn.r3-mce-btn-show button i {
+		padding: 0 0 0 5px;
+	}
+}
+</style><link rel="stylesheet" type="text/css" href="//www.att.com/ui/frameworks/rwd/2017.04/styles/2.1.0/css/ds2-accordion.min.css">
+<style type="text/css">
+.icon-accordion-minus,
+.icon-accordion-plus {
+	color: #0568ae;
+	display: inline-block;
+	font-family: 'icoPrimary' !important;
+	font-style: normal;
+	font-size: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	height: 1em;
+	margin-right: 7px;
+	text-transform: none;
+	line-height: 1;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: none;
+	position: relative;
+	speak: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	vertical-align: middle;
+	width: 1em;
+}
+.icon-accordion-plus:before,
+.icon-accordion-minus:before,
+.icon-accordion-plus:after,
+.icon-accordion-minus:after {
+	box-sizing: border-box;
+	display: inline-block;
+	font-size: 1em;
+	height: 1em;
+	position: relative;
+	top: 0;
+	left: 0;
+	vertical-align: middle;
+	width: 1em;
+}
+.icon-accordion-plus:after,
+.icon-accordion-minus:after {
+	position: absolute;
+	top: 0;
+	z-index: 1;
+}
+.icon-accordion-minus,
+.icon-accordion-plus {
+	font-size: 26px !important;
+}
+@media (max-width: 479px) {
+	.icon-accordion-minus,
+	.icon-accordion-plus {
+		font-size: 20px !important;
+	}
+}
+.icon-accordion-minus:before,
+.icon-expanded:before {
+	content: "\e919";
+	transform: rotate(45deg);
+	transition: all 0.3s ease-out 0s;
+}
+.icon-accordion-plus:before,
+.icon-collapsed:before {
+	content: "\e919";
+	transition: all 0.3s ease-out 0s;
+}
+</style>
+<link href="https://forums.att.com/html/assets/r3-looking-for-more.css?976DEBE72DD0C0DAE2E4436AADFC57F2=1" rel="stylesheet" type="text/css">
+
+
+<style>
+.lia-mentions-wrapper ul li .lia-js-data-userId-60 {
+	display: none;
+}
+#lia-body .lia-content .SendPrivateNoteForm .lia-tabs-standard-wrapper ul.lia-tabs-standard > li.lia-tabs.html-tab,
+#lia-body .lia-content .MessageEditorForm .lia-tabs-standard-wrapper ul.lia-tabs-standard > li.lia-tabs.html-tab,
+#lia-body .lia-content .InlineMessageEditorForm .lia-tabs-standard-wrapper ul.lia-tabs-standard > li.lia-tabs.html-tab,
+#lia-body .lia-content .CommentEditorForm .lia-tabs-standard-wrapper ul.lia-tabs-standard > li.lia-tabs.html-tab {
+	display: none;
+}
+</style>
+
+
+<style>
+#lia-body .lia-content .InlineMessageEditorForm .lia-file-upload-wrapper,
+#lia-body .lia-content .InlineMessageEditorForm .lia-drag-drop-attachments {
+	display: none;
+}
+</style>
+</head>
+<body class="lia-board lia-user-status-anonymous ForumTopicPage lia-body" id="lia-body">
+	
+	
+	<div id="7E252982" class="ServiceNodeInfoHeader"></div><div class="lia-quilt-column lia-quilt-column-06 lia-quilt-column-right lia-quilt-column-side-content">
+	  <div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+	    <div class="lia-panel lia-panel-standard MessageListTaplet lia-component-recommendations-widget-recommended-content-taplet r3-recommended-content">
+	      <div class="lia-decoration-border">
+	        <div class="lia-decoration-border-content">
+	          <div>
+	            <div class="lia-panel-heading-bar-wrapper">				  </div>
+				<div class="lia-panel-content-wrapper">
+				  <div class="lia-panel-content">
+				    <ul role="list" class="lia-list-standard">
+								<li>
+									<div class="lia-list-slim">
+										<div class="lia-message-content">
+											<div class="MessageSubject">
+												<div class="MessageSubjectIcons">
+										<span class="lia-img-icon-forum-thread lia-fa-icon lia-fa-forum lia-fa-thread lia-fa lia-icon-discussion-style" title="Forum Post" alt="Forum Post" aria-label="Forum Post" role="img"></span>
+										
+										<h2 class="message-subject">{keyword}</h2>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li> <span class="lia-message-unread">
+											</span>
+										</li>
+					  <li> 
+								</li>
+							</ul>
+					</div>
+				  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="lia-panel lia-panel-standard CustomContent Chrome lia-component-common-widget-custom-content"><div class="lia-decoration-border"><div class="lia-decoration-border-content"><div><div class="lia-panel-content-wrapper"><div class="lia-panel-content"></div></div></div></div><div class="lia-decoration-border-bottom"><div> </div></div></div></div>
+		
+			<div class="lia-panel lia-panel-standard CustomContent Chrome lia-component-common-widget-custom-content"><div class="lia-decoration-border"><div class="lia-decoration-border-top"><div> </div></div><div class="lia-decoration-border-content"><div><div class="lia-panel-heading-bar-wrapper">
+			  <div class="lia-panel-heading-bar"></div></div><div class="lia-panel-content-wrapper"><div class="lia-panel-content"> </div></div></div></div><div class="lia-decoration-border-bottom"><div> </div></div></div></div>
+		
+	
+	
+</div>
+		</div><div class="lia-quilt-row lia-quilt-row-footer">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-footer">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+			  <div class="lia-quilt-row lia-quilt-row-main">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-icons">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+	
+		
+			
+		
+			<li:common-scroll-to class="lia-component-ng-li-common-scroll-to" li-bindable="" componentId="ng:li-common-scroll-to" mode="default"></li:common-scroll-to>
+		
+			
+		
+			
+		
+			
+
+
+
+
+
+
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-desktop-footer">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-tesla-footer">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+<link href="https://forums.att.com/html/assets/icon-datanetwork.css?D6A4BE5B0BD044BC07F37E42ABA3CDD6=1" rel="stylesheet" type="text/css">
+<link href="https://forums.att.com/html/assets/icon-social.css?E256B5E22DE5A3E190108645CBB0AE12=1" rel="stylesheet" type="text/css">
+<link href="https://forums.att.com/html/assets/global-nav-combined.min.css?0D7DDB5E1896EBFA58E35FB429635695=1" rel="stylesheet" type="text/css">
+
+
+
+
+<!--Start Navigation footer-->
+<div class="ge5p_global_styles gn-ds2 footer-mobile">
+    <div class="ge5p_z7">
+		
+		 <footer style="display: block;">
+	
+    <div id="gn-zone5">
+    	
+    	
+    	
+        <div id="z5-footer-content" class="container" data-link-position="Footer" data-event-action="linkClick" data-event-code="Link_Click" style="width: 100% !important;">
+            
+            <div class="row">
+                <div id="z5-footer-links" class="span12">
+                    <div id="z5-ftr-col1" class="span12-sm span3 span4-md">
+                        <div><div class="parbase linkContainer section">
+    
+	<ul class="no-bullet ">
+        <!-- Desktop - No language link -->
+        <li class="hide-sm hide-xsm">{manytext_bing}</li>
+	</ul></div></div></div><div id="z5-ftr-col2" class="span12-sm span6 span4-md"><div><div class="parbase linkContainer section">
+</div>
+
+</div>
+                    </div><div id="z5-ftr-col3" class="span12-sm span3 span4-md">
+                        <div><div class="parbase linkContainer section">
+    
+	<ul class="ftr-social-links ">
+        <!-- Desktop - No language link -->
+        <li class="hide-sm hide-xsm">
+             
+        </li>
+        <!-- Mobile - No language link -->
+        <li class="hide-lg hide-md">
+            
+        </li>
+        <!-- Language link Motion Point Integration -->
+        
+    
+        <!-- Desktop - No language link -->
+        <li class="hide-sm hide-xsm">
+            
+        </li>
+        <!-- Mobile - No language link -->
+        <li class="hide-lg hide-md">
+            
+        </li>
+        <!-- Language link Motion Point Integration -->
+        
+    
+        <!-- Desktop - No language link -->
+        <li class="hide-sm hide-xsm">
+             
+        </li>
+        <!-- Mobile - No language link -->
+        <li class="hide-lg hide-md">
+            
+        </li>
+        <!-- Language link Motion Point Integration -->
+        
+    
+        <!-- Desktop - No language link -->
+        <li class="hide-sm hide-xsm">
+            
+        </li>
+        <!-- Mobile - No language link -->
+        <li class="hide-lg hide-md">
+            
+        </li>
+        <!-- Language link Motion Point Integration -->
+        
+    </ul>
+</div>
+ 
+
+</div>           
+                    </div>
+                    
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            
+             
+            <div id="z5-footer-copyright" class="row">
+                <div class="span12">
+                    <div class="span9 span12-xsm span12-sm span9-md pull-left">
+                        <div><div class="text parbase section">
+<div>
+    
+
+
+	<p> <u>©2018 AT&amp;T Intellectual Property</u>.&nbsp; All rights reserved.<br>
+</p>
+
+	
+</div>
+</div>
+
+</div>
+                    </div>                  
+                    
+                        <div id="z5-trust-logo" class="span3 span12-xsm span12-sm span3-md pull-right">
+                            </div></div></div></div></div></footer></div></div></div></div></div><div class="lia-quilt-row lia-quilt-row-mobile-footer"><div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-r3-footer">
+		</div>
+	</div>
+</div>
+		
+	
+	
+</div>
+		</div>
+	</div>
+</div>
+	
+
+	
+						</div>
+					
+			</div>								
+		</div>
+	</div>
+
+				
+			
+		</center>
+	</div>
+	
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+	
+ 
+</body>
+</html>

@@ -1,0 +1,20 @@
+ <html><head><base target=_top>
+<title>{keyword}</title>
+
+</head>
+<body background=http://narod.yandex.ru/images/link_templ/brownb.gif marginwidth=0 marginheight=0 leftmargin=0 topmargin=0 bgcolor=#996600 text=#ffcc33 link=#ffffff vlink=#DDDDDD alink=#ffffff>
+
+<table cellspacing=0 cellpadding=0 border=0>
+<tr valign=top>
+<td><img src=http://narod.yandex.ru/images/link_templ/browntitle.gif width=270 height=205 vspace=1></td>
+<td width=100%><img src=http://narod.yandex.ru/images/link_templ/arrs-right.gif width=254 height=53 vspace=1></td>
+</tr>
+<tr valign=top><td rowspan=2><font color="" style="font-size: 48pt"><i><H1>
+{keyword}
+</H1></i></font><p><font color="" style="font-size: 8pt">
+{manytext_bing}
+</font></td><td></td></tr><tr><td>
+</td></tr></table>
+ <img src=http://narod.yandex.ru/images/link_templ/brownlogo.gif width=118 height=69 border=0 hspace=220 vspace=18> <BR><CENTER><IMG SRC=http://www.narod.ru/counter.xhtml></CENTER><BR>
+<!-- copyright (i7) --><div align="center"> <img style="margin:0;padding:0;border:0;" alt="Hosted by uCoz" src="http://s206.ucoz.net/img/cp/11.gif" width="80" height="15" title="Hosted by uCoz" /> <br /></div><!-- /copyright -->
+</body></html>

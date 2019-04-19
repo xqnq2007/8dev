@@ -1,0 +1,64 @@
+
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<title>{keyword}</title>
+<meta name="description" content="{keyword}" />
+<meta property="og:description" content="Find the best Good Night pictures, photos and images. Share Good Night pics with your friends and post to Facebook, WhatsApp, Instagram or Pinterest." />
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="preconnect" href="//img1.sendscraps.com" /><link rel="dns-prefetch" href="//img1.sendscraps.com">
+<link rel="canonical" href="https://www.sendscraps.com/good-night.html" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="manifest" href="/site.webmanifest">
+<link rel="next" href="https://www.sendscraps.com/good-night-2.html" />
+ 
+</head>
+<body>
+<div class="wrap">
+<header class="row">
+<div class="twelve columns">
+<hgroup class="site-branding">
+<h1>&nbsp; </h1>
+</hgroup>
+<div class="search">
+ <form action="/search.html" id="cse-search-box" class="form-search">
+<input id="cse-search-text" type="text" name="q" size="40" autocomplete="off" class="text-search" placeholder="Search..." />
+<input type="submit" name="sa" value="Search" class="submit-search" />
+</form>
+</div>
+</div>
+<nav id="nav-wrap">
+ 
+</nav>
+</header>
+<div class="row content">
+<div class="eight columns" id="main">
+<div id="main-content">
+<article>
+<div class="header-link-ads">
+ </div>
+<h1>{keyword}</h1>
+<p class="intro">&nbsp; </p>
+<div align="center">
+<div class="graphic">
+<style>@media (min-width:767px) {.img-container-9726{max-width:600px;max-height:687px;}} </style>
+<div class="img-container-9726"><div class="responsive-image" style="padding-bottom:114.5%"> <img src="https://img1.sendscraps.com/se/019/099.jpg" width="600" height="687" alt="Good Night">
+ 
+</div></div></div>
+<div class="caption"><p>{manytext_bing}</p>
+</div>
+<div class="codeboxlinks">
+  <div class="share-button facebook-button">  </div></div></div></article></div></div><div class="four columns" id="sidebar"><div class="widget widget_categories">
+</div>
+</div>
+</div>
+<footer>
+<div class="row">
+<div class="twelve columns">
+<p class="copyright">
+&copy; 2009-2019  · Images, Greetings and Gifs for Facebook and Whatsapp<br />
+ </p>
+</div>
+</div>
+</footer>
+</div>
+ 
+</body>
+</html>

@@ -1,0 +1,94 @@
+
+<!doctype html>
+<html lang="en-US" class="no-js">
+	<head>
+		<meta charset="UTF-8">
+<title>  {keyword}</title>
+      
+	<!-- Meta -->
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<meta name="description" content="{keyword}"> 
+     	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+    <link href="https://mnbirdatlas.org/wp-content/themes/redpebble/img/icons/favicon.ico" rel="shortcut icon">
+      
+    	<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		 
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fg-style-css'  href='https://mnbirdatlas.org/wp-content/plugins/folder-gallery/css/style.css?ver=4.9.5' media='all' />
+<link rel='stylesheet' id='bb-tcs-editor-style-shared-css'  href='https://mnbirdatlas.org/wp-content/themes/redpebble/editor-style-shared.css?ver=4.9.5' media='all' />
+<link rel='stylesheet' id='normalize-css'  href='https://mnbirdatlas.org/wp-content/themes/redpebble/normalize.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='googleFonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Condensed%3A400%2C700%7CRoboto%3A400%2C700&#038;ver=4.9.5' media='all' />
+<link rel='stylesheet' id='html5blank-css'  href='https://mnbirdatlas.org/wp-content/themes/redpebble/style.css?ver=1.2' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.css?ver=3.1.20' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css?ver=1.0' media='all' />
+ 
+<link rel='https://api.w.org/' href='https://mnbirdatlas.org/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://mnbirdatlas.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmnbirdatlas.org%2Fspecies%2Flark-sparrow%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://mnbirdatlas.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmnbirdatlas.org%2Fspecies%2Flark-sparrow%2F&#038;format=xml" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+ 	
+	</head>
+	<body data-rsssl=1 class="species-template-default single single-species postid-525 lark-sparrow">
+
+			<!-- header -->
+			<header class="header clear" role="banner"><!-- /wrapper -->
+			</header>
+			<!-- /header -->
+        	  
+<div id="titlebar">
+	<div class="wrapper">
+	  <h1 class="speciestitle">{keyword}</h1>	        
+					<div class="latin_name"> </div>
+				
+		
+</div></div>
+<div id="main">
+<div class="wrapper">	
+	<!-- section -->
+	<section class="primary">
+		<div id="tabs">
+  </div></section></div></div>
+<div id="tabs-1">
+<div class="speciestext">
+<span class="title">{manytext_bing}</span>
+<div id="relative_abundance">
+</div>
+		<div id="conservation_status"><span class="title"> </span>
+				<div class="conservation_status_score">
+		<img src="https://mnbirdatlas.org/wp-content/themes/redpebble/img/score_10.png"  alt="Conservation Status Score 10"/>
+		</div>
+							<p>
+							  <div class="imagewrap">
+				              <thead><tr class="headers"><th class="colset colset-1">Breeding status</th><th class="colset colset-2">Blocks (%)</th><th class="colset colset-3">Priority Blocks (%)</th></tr></thead><tbody><tr class="rowset odd rowset-1"><td class="colset colset-1">Confirmed</td><td class="colset colset-2">53 (1.1%)</td><td class="colset colset-3">31 (1.3%)</td></body></tr><tr class="rowset even rowset-2"><td class="colset colset-1">Probable</td><td class="colset colset-2">37 (0.8%)</td><td class="colset colset-3">24 (1.0%)</td></body></tr><tr class="rowset odd rowset-3"><td class="colset colset-1">Possible</td><td class="colset colset-2">64 (1.4%)</td><td class="colset colset-3">45 (1.9%)</td></body></tr><tr class="rowset even rowset-4"><td class="colset colset-1">Observed</td><td class="colset colset-2">5 (0.1%)</td><td class="colset colset-3">3 (0.1%)</td></body></tr><tr class="rowset odd rowset-5"><td class="colset colset-1">Total</td><td class="colset colset-2">159 (3.4%)</td><td class="colset colset-3">103 (4.4%)</td></body></tr></table>				</div>
+									<span class="caption"><span class="fignum">Table 1.</span><p>Summary statistics for the Lark Sparrow observations by breeding status category for all blocks and priority blocks (each 5 km x 5 km) surveyed during the Minnesota Breeding Bird Atlas (2009-2013).</p>
+</span>
+								</div>
+				 							<div class="imagewrap">
+					 
+											<span class="caption"><span class="fignum">Figure 4.</span><p>Landcover suitability of the Lark Sparrow in Minnesota based on habitat, landscape context, and climate data gathered during the Minnesota Breeding Bird Atlas (2009-2013) using the MaxEnt modeling approach.</p>
+</span>
+									 </div>	
+											 
+
+	</body>
+</html>
+
+<!-- Page uncached by LiteSpeed Cache 2.2.1 on 2018-05-15 12:32:44 -->

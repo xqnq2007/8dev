@@ -1,0 +1,146 @@
+
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="//s0.2mdn.net" pr="0.7"><link rel="dns-prefetch" href="//api.viglink.com" pr="0.7"><link rel="dns-prefetch" href="//c2.taboola.com" pr="0.9"><link rel="dns-prefetch" href="//cdn.viglink.com" pr="0.7"><link rel="dns-prefetch" href="//tru.am" pr="0.7"><link rel="dns-prefetch" href="//urs.zdnet.com" pr="0.9"><link rel="dns-prefetch" href="//cdn.taboola.com" pr="1"><link rel="dns-prefetch" href="//platform.linkedin.com" pr="0.8"><link rel="dns-prefetch" href="//www.lightboxcdn.com" pr="0.7"><link rel="preconnect" href="//zdnet1.cbsistatic.com" pr="1"><link rel="preconnect" href="//zdnet2.cbsistatic.com" pr="1"><link rel="preconnect" href="//zdnet3.cbsistatic.com" pr="1"><link rel="preconnect" href="//zdnet4.cbsistatic.com" pr="1"><link rel="preconnect" href="//www.googletagservices.com" pr="1"><link rel="preconnect" href="//native.sharethrough.com" pr="1"><link rel="preconnect" href="//www.googleadservices.com" pr="1"><link rel="preconnect" href="//z.moatads.com" pr="1"><link rel="preconnect" href="//partner.googleadservices.com" pr="0.9"><link rel="preconnect" href="//pagead2.googlesyndication.com" pr="0.9"><link rel="preconnect" href="//tpc.googlesyndication.com" pr="0.9"><link rel="preconnect" href="//securepubads.g.doubleclick.net" pr="0.9"><link rel="preconnect" href="//rev.cbsi.com" pr="0.9"><link rel="preconnect" href="//static.adsafeprotected.com" pr="0.9"><link rel="preconnect" href="//cbsi.demdex.net" pr="0.9"><link rel="preconnect" href="//fast.cbsi.demdex.net" pr="0.9"><link rel="preconnect" href="//ps.ns-cdn.com" pr="0.9"><link rel="preconnect" href="//pixel.adsafeprotected.com" pr="0.8"><link rel="preconnect" href="//c.go-mpulse.net" pr="1"><link rel="preconnect" href="//tags.tiqcdn.com" pr="1"><link rel="preconnect" href="//secure-us.imrworldwide.com" pr="0.9"><link rel="preconnect" href="//b.scorecardresearch.com" pr="0.9"><link rel="preconnect" href="//b2b.cbsimg.net" pr="0.9"><link rel="preconnect" href="//sb.scorecardresearch.com" pr="0.9"><link rel="preconnect" href="//secure.quantserve.com" pr="0.9"><link rel="preconnect" href="//trc.taboola.com" pr="0.8"><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><meta content="en" http-equiv="Content-Language"><title>{keyword}</title><meta name="description" content="{keyword}"><link rel="canonical" href="https://www.zdnet.com/article/cebit-2000-motorola-battles-with-nokia-in-wap-war/"><meta property="og:site_name" content="ZDNet"><meta property="og:type" content="article"><meta property="og:url" content="https://www.zdnet.com/article/cebit-2000-motorola-battles-with-nokia-in-wap-war/"><meta property="og:title" content="CeBIT 2000: Motorola battles with Nokia in WAP war | ZDNet"><meta property="og:description" content="Motorola sets the scene for WAP partnerships and announces three content deals"><meta property="og:image" content="https://zdnet3.cbsistatic.com/hub/i/r/2014/12/01/f7247ce5-7921-11e4-b569-d4ae52e95e57/thumbnail/770x578/6b13fca5ff3ebf4ba352617147400fec/zd-defaultimage-news.jpg"><meta name="author" content="Justin Pearse"><meta name="twitter:site" content="@ZDNet"><meta name="twitter:creator" content="@ZDNet"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:url" content="https://www.zdnet.com/article/cebit-2000-motorola-battles-with-nokia-in-wap-war/"><meta name="twitter:title" content="CeBIT 2000: Motorola battles with Nokia in WAP war | ZDNet"><meta name="twitter:description" content="Motorola sets the scene for WAP partnerships and announces three content deals"><meta name="twitter:image" content="https://zdnet3.cbsistatic.com/hub/i/r/2014/12/01/f7247ce5-7921-11e4-b569-d4ae52e95e57/thumbnail/770x578/6b13fca5ff3ebf4ba352617147400fec/zd-defaultimage-news.jpg"><meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1, minimum-scale=1"><meta name="theme-color" content="#080e14"><link rel="icon" sizes="192x192" href="https://zdnet2.cbsistatic.com/fly/bundles/zdnetcss/images/logos/logo-192x192.png"><link rel="stylesheet" href="https://zdnet4.cbsistatic.com/fly/1229-fly/css/core/main-b4733a0ab9-rev.css"><!--[if (lt IE 9)&(!IEMobile)]>
+        <link rel="stylesheet" href="https://zdnet2.cbsistatic.com/fly/1229-fly/css/core/ie8-7a85d71c45-rev.css" media="screen">
+        <![endif]--> <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="Latest topics for ZDNet in Networking" href="https://www.zdnet.com/topic/networking/rss.xml"></head><body class="	
+">
+
+    <div id="cookie-policy" class="alert optBeta" data-component="cookiePolicy">
+	<p>
+		
+	</p>
+</div>
+            <div class="editions">
+                
+            United Kingdom
+       
+    </li>
+
+                    <li>
+         
+            United States
+         
+    </li>
+
+    <li class="subDiv"><span class="label">ZDNet around the globe:</span></li>
+                    <li class="subDiv">
+        
+            ZDNet China
+         
+    </li>
+
+                    <li class="subDiv">
+        
+            ZDNet France
+        
+    </li>
+
+                    <li class="subDiv">
+         
+            ZDNet Germany
+        
+    </li>
+
+                    <li class="subDiv">
+        
+            ZDNet Korea
+         
+    </li>
+
+                    <li class="subDiv">
+         
+            ZDNet Japan
+       
+    </li>
+
+</ul></li>
+                </ul></div>
+
+                                                <div class="headerTextAd">
+                                            </div>
+                                    </div>
+
+        <div class="fixation" data-component="fixate" data-fixate-options='{"offset":{"top":0,"bottom":0},"guideTop":"#secondary"}'>
+    
+                                    
+    <div id="primary" data-component="smartSearch">
+         
+        <div class="searchLarge">
+            
+            <div class="dropDown">
+                
+<div class="container search-overlay-container">
+    <form class="headerSearch active" method="get" action="https://www.zdnet.com/search/">
+        <div class="box">
+            <input type="search" title="query" autocomplete="off" placeholder="What are you looking for?" tabindex="1" name="q" value="" class="search-expand smart-search-input"><button type="submit" class="search-button" data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "Header-Search", "pageType": "article"}'>
+                     <span class="search-go">Go</span>
+            </button>
+        </div>
+    </form>
+
+    <div class="smart-search-results">
+        <span class="closeDropdown screen-large" data-item="close">
+                 </span>
+        <div class="smart-search-results-list"></div>
+        <div class="smart-search-trending-content"></div>
+                </div>
+</div>            </div>
+        </div>
+        
+<nav class="primaryNav" data-component="headerNav"></span></li>    </ul></nav></div>
+
+        </div>
+</header><div class="hpto">
+	<div id="hpto-5ae3604e3f9ce" class="ad-hpto" data-ad="hpto">
+    </div>
+
+</div>
+            
+    
+    
+        <div data-item-id="62abcc9d-2f69-11e4-9e6a-00505685119a">
+    <div class="topContent container">
+        <div class="breakingNewsContainer"></div>
+                        <div class="row">
+                <div class="row">
+        <div class="col-12">
+                                                    
+                                                        
+                                            
+
+    <div data-component="loadAsync" data-load-async-options='{"url":"https:\/\/www.zdnet.com\/components\/breaking-news\/xhr\/","replace":true,"relocate":".breakingNewsContainer","data":{"slug":"breaking-news-banner"}}'></div>                                                                                
+                                                        
+                                            		
+
+<header class="storyHeader article"><h1 itemprop="headline">{keyword}</h1>
+
+				<p class="summary" itemprop="description alternativeHeadline">{manytext_bing}</p>
+</header></div>
+            </div>
+    </div>
+
+    </div>
+    </div>
+
+            
+<footer role="contentinfo" class="footer-main"><div class="container">
+        <div class="row">
+            <div class="col-6 siteHighlights">
+                
+ DNet
+                <div class="connect">
+                    <div class="connect-label">Connect with us</div>
+                </div>
+                <p class="copyright">© 2018 CBS Interactive. All rights reserved.</p>
+
+                                    <div class="networkSites">
+                        <form data-component="footerSites">
+                          <select id="cbsiSites">
+                          <option selected value="">Select Site</option><option value="http://www.cbs.com/cbs_cares/">CBS Cares</option><option value="http://www.cbsfilms.com">CBS Films</option><option value="http://www.cbsradio.com">CBS Radio</option><option value="http://www.cbs.com">CBS.com</option><option value="http://www.cbsinteractive.com">CBSInteractive</option><option value="http://www.cbsnews.com">CBSNews.com</option><option value="http://www.cbssports.com">CBSSports.com</option><option value="http://www.chowhound.com">Chowhound</option><option value="http://www.cnet.com">CNET</option><option value="http://www.cbsiam.com/">College Networks</option><option value="http://www.gamespot.com">GameSpot</option><option value="http://www.last.fm">Last.fm</option><option value="http://www.maxpreps.com">MaxPreps</option><option value="http://www.metacritic.com">Metacritic.com</option><option value="http://www.cbsnews.com/moneywatch/">Moneywatch</option><option value="http://www.mysimon.com">mySimon</option><option value="http://www.radio.com">Radio.com</option><option value="http://www.search.com">Search.com</option><option value="http://www.shopper.com">Shopper.com</option><option value="http://www.sho.com">Showtime</option><option value="http://www.techrepublic.com">TechRepublic</option><option value="http://theinsider.etonline.com/">The Insider</option><option value="http://www.tv.com">TV.com</option><option value="http://www.urbanbaby.com">UrbanBaby.com</option><option value="http://www.zdnet.com">ZDNet</option></select></form>
+                    </div>
+                            </div>
+            <div class="col-2 beta">
+              </div>
+        </div>
+    </div>
+</footer> </body></html>
